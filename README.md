@@ -1,32 +1,31 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF8C5&center=true&vCenter=true&width=500&lines=Hi,+I'm+liuxing7954-abc;Developer;Open+Source+Contributor" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF8C5&center=true&vCenter=true&width=500&lines=Hi,+I'm+liuxing7954-abc;Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-# liuxing7954-abc
+<h1 align="center">👋 liuxing7954-abc</h1>
 
-<div align="center">
-
-**JavaScript 开发者 | 专注于前端构建**
-
-</div>
+<p align="center">
+  <strong>活跃于 JavaScript 生态的开发者</strong><br>
+  2025 年加入 GitHub · 专注前端技术实践
+</p>
 
 ---
 
 ## 关于我
 
-我是 liuxing7954-abc，一名专注于 JavaScript 开发的开发者。2025 年加入 GitHub，目前主要活跃于 JavaScript 生态。
+我是 liuxing7954-abc，一位专注于 JavaScript 开发的开发者。目前主要活跃在前端领域，使用 JavaScript 构建项目。
 
-在过去 90 天内，我保持了持续的代码贡献，主要围绕 1 个公开仓库进行构建工作。贡献类型以提交为主（占比约 66.7%），同时参与少量 Pull Request 和 Issue 处理，展现出专注的构建者模式。
-
-**核心技术方向**：JavaScript（占比 96.7%），辅以 HTML 和 CSS。当前贡献多样性较低，集中精力于单一技术栈的深度实践。
+- **加入时间**：2025 年
+- **最近活动**：过去 90 天内有公开贡献记录，主要集中在 1 个公共仓库
+- **主要语言**：JavaScript（占比 96.7%）
+- **贡献模式**：以构建为主，包含提交、Pull Request 和 Issue 参与
+- **技术方向**：前端开发实践
 
 ---
 
 ## 技术栈
 
-### 语言
+### 语言与标记
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -38,64 +37,56 @@
 
 ## GitHub 数据概览
 
-<div align="center">
-
-<img src="https://readme.u14.app/api/github/stats?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="GitHub Stats" width="48%" />
-<img src="https://readme.u14.app/api/github/top-langs?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="Top Languages" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://readme.u14.app/api/github/stats?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="GitHub Stats" width="48%" />
+  <img src="https://readme.u14.app/api/github/top-langs?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ## 贡献活动
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liuxing7954-abc&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liuxing7954-abc&theme=tokyo-night" alt="Contribution Activity Graph" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuxing7954-abc&theme=tokyo-night" alt="Contribution Activity Graph" />
+</p>
 
 ---
 
-## 精选项目
+## 精选仓库
 
-<div align="center">
-
-<img src="https://readme.u14.app/api/github/pin?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1&index=0" alt="cursor-agent-test1 Pin Card" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://readme.u14.app/api/github/pin?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1&index=0" alt="cursor-agent-test1 Repository Card" />
+</p>
 
 **cursor-agent-test1**  
 ![Stars](https://img.shields.io/github/stars/liuxing7954-abc/cursor-agent-test1?style=flat-square&color=58A6FF)  
 语言：JavaScript  
-项目链接：[https://liuxing7954-abc.github.io/cursor-agent-test1/](https://liuxing7954-abc.github.io/cursor-agent-test1/)
+[项目地址](https://liuxing7954-abc.github.io/cursor-agent-test1/)
 
 ---
 
 ## GitHub 成就
 
-<div align="center">
+<p align="center">
+  <img src="https://readme.u14.app/api/github/trophies?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="GitHub Trophies" width="100%" />
+</p>
 
-<img src="https://readme.u14.app/api/github/trophies?userId=frwFcv0tUmJqgc2iYSJSzdjrIZq1Hhw1" alt="GitHub Trophies" width="100%" />
+---
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake.svg">
+    <img alt="github pacman animation" src="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake.svg">
-  <img alt="github pacman animation" src="https://raw.githubusercontent.com/liuxing7954-abc/liuxing7954-abc/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**感谢您的访问** | 2025 © liuxing7954-abc
-
+  <img src="https://komarev.com/ghpvc/?username=liuxing7954-abc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
